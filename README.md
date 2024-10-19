@@ -5,3 +5,6 @@
 
 ## day 4
 ![day4](https://github.com/user-attachments/assets/b6d3e399-79c1-4f55-bb33-c72504b66068)
+
+## day 5
+![day5](https://github.com/user-attachments/assets/e5d85b27-d175-420a-a269-4db39700c515)
