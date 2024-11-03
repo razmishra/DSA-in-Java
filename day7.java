@@ -11,9 +11,7 @@ class day7 {
         // // Initialize category variable
         // String category = "";
 
-        // // Determine category using nested if-else statements
-        // // if (productType.equalsIgnoreCase("Electronics")) {
-        // if (productType == category1) {
+        // if (productType == category1) { // == strictly compares
         // if (price >= 0 && price <= 100) {
         // category = "Budget";
         // } else if (price >= 101 && price <= 500) {
