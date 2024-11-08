@@ -11,3 +11,6 @@
 
 ## day 6
 ![day 6](https://github.com/user-attachments/assets/1d8f348d-1b73-4c73-a060-319ee1dab587)
+
+## day 8
+![day8](https://github.com/user-attachments/assets/f9f5a05d-76b4-4834-9407-f381e1c15428)
