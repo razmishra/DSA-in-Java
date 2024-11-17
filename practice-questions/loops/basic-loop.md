@@ -363,9 +363,6 @@ The digits of 123 are 1, 2, and 3. Their product is: 1 × 2 × 3 = 6.
 #### Input:
 432
 
-shell
-Copy code
-
 #### Output:
 24
 
