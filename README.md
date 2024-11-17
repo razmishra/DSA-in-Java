@@ -17,3 +17,6 @@
 
 ## day 9
 ![day 9](https://github.com/user-attachments/assets/57682acd-1fb9-47bb-9238-7bbc6a4a3d69)
+
+## day 10
+![day 10](https://github.com/user-attachments/assets/32a38422-e470-41f9-8abd-b7f2551cacf0)
