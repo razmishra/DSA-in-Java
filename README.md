@@ -20,3 +20,6 @@
 
 ## day 10
 ![day 10](https://github.com/user-attachments/assets/32a38422-e470-41f9-8abd-b7f2551cacf0)
+
+## day 11
+![day 11](https://github.com/user-attachments/assets/466b2dfa-7c08-419b-95d3-a537e921528b)
