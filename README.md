@@ -23,3 +23,7 @@
 
 ## day 11
 ![day 11](https://github.com/user-attachments/assets/466b2dfa-7c08-419b-95d3-a537e921528b)
+
+## day 12
+![day 12](https://github.com/user-attachments/assets/f3eab773-4aa4-4226-b464-49d794fa2b80)
+
