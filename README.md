@@ -27,3 +27,6 @@
 ## day 12
 ![day 12](https://github.com/user-attachments/assets/f3eab773-4aa4-4226-b464-49d794fa2b80)
 
+## day 14
+![day14](https://github.com/user-attachments/assets/2c35bfcc-7831-4f40-be8a-7b60dbd30252)
+
