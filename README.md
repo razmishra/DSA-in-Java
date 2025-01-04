@@ -36,5 +36,9 @@
 ## day 16
 ![day 16](https://github.com/user-attachments/assets/4967c049-5631-4b77-8fde-1df5f0989681)
 
+## day 17
+![day 17](https://github.com/user-attachments/assets/b932af65-883a-403a-8c28-a7fd9a815a1d)
+
+
 
 
