@@ -45,6 +45,9 @@
 ## day 19
 ![day 19](https://github.com/user-attachments/assets/1ef855c2-93b9-4c6f-8306-53486eee4989)
 
+## day20
+![day 20](https://github.com/user-attachments/assets/f1fa7cec-378b-4099-8995-cfbb365fefa4)
+
 
 
 
