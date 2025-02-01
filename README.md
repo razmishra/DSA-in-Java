@@ -48,6 +48,8 @@
 ## day20
 ![day 20](https://github.com/user-attachments/assets/f1fa7cec-378b-4099-8995-cfbb365fefa4)
 
+## day21
+![day 21](https://github.com/user-attachments/assets/374bf93e-12bb-4a69-a4fb-bb479092c079)
 
 
 
