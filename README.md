@@ -51,6 +51,8 @@
 ## day21
 ![day 21](https://github.com/user-attachments/assets/374bf93e-12bb-4a69-a4fb-bb479092c079)
 
+## day 22
+![day22](https://github.com/user-attachments/assets/1e8f60c7-3b04-4ec0-9a15-94e5f17b917a)
 
 
 
