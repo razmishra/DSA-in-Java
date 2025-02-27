@@ -66,4 +66,7 @@
 ## day26
 ![day 26](https://github.com/user-attachments/assets/4124f892-6802-4507-a267-c6b8d703a2bc)
 
+## day27
+![day 27](https://github.com/user-attachments/assets/1f42659d-969a-4948-91c7-c096180c9141)
+
 
