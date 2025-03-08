@@ -72,4 +72,6 @@
 ## day28
 ![day 28](https://github.com/user-attachments/assets/4cdc7589-8d8f-4c0a-86f1-c5c316cc31f5)
 
+## day 29
+![day 29](https://github.com/user-attachments/assets/c8b4ecb4-58d8-4c08-aa07-8411257072fd)
 
