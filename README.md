@@ -81,4 +81,7 @@
 ## day31
 ![day31](https://github.com/user-attachments/assets/6618bbe7-5636-4b8b-ac5c-73c02659b940)
 
+## day32
+![day 32](https://github.com/user-attachments/assets/fe36f487-8c4a-490b-9e50-1a3be45751a4)
+
 
